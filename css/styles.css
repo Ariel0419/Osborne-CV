@@ -1,0 +1,22 @@
+/********************************tag selectors*****************/
+h1{
+  color: red;
+  font-size: 200px;
+}
+
+image:hover {
+    background-color: gold;
+  }
+
+/***************************class selectors************/
+.mushroom{
+  background-color: red;
+
+  }
+.mushroom:hover{
+  background-color: gold;
+}
+/************************ID selectors********/
+#heading{
+  color: blue;
+}
